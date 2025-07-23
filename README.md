@@ -19,6 +19,6 @@
 [![](https://visitcount.itsvg.in/api?id=hard-i-k&icon=10&color=13)](https://visitcount.itsvg.in)
 
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/hard-i-k/hard-i-k/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
